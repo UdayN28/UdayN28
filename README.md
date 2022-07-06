@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UdayN28
+- 👋 Hi, I’m @Uday
 - 👀 I’m interested in ... Cloud Engineering
 - 🌱 I’m currently learning ... AWS nd DevOps
 - 📫 How to reach me ... Gmail
